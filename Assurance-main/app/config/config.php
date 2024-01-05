@@ -9,7 +9,7 @@ define('DB_PASS','');
 // app root
 define('APPROOT',dirname(dirname(__FILE__)));
 // URL root
-define('URL_ROOT','http://localhost/assurance');
+define('URL_ROOT','http://localhost/assurance-main');
 //site name 
 define('SITE_NAME','assurance');
 ?>
